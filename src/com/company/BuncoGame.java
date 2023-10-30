@@ -1,6 +1,7 @@
 package com.company;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class BuncoGame {
@@ -16,39 +17,38 @@ public class BuncoGame {
         this.player[0] = new Player();
         this.player[1] = new Player(playerName);
         this.sc = new Scanner(System.in);
-        this.turnQueue = new ArrayList<>();
     }
 
     public void createBuncoGame()
     {
-        System.out.println("Pre-Game. Determine the order of players in which the game will be played\n");
-        int firstPlayer = determineFirstPlayer();
-        int round = 1;
-
-        String winner = "";
-
-        // Add the first player that will be playing
-        turnQueue.add(player[firstPlayer]);
-
-        // Add the player that will be playing the next
-        if (firstPlayer == 0)
-            turnQueue.add(player[1]);
-        else
-            turnQueue.add(player[0]);
-
-        int currentPlayer = 0;
-
         boolean gameLoop = true;
         while (gameLoop)
         {
+            this.turnQueue = new ArrayList<>();
+            System.out.println("Pre-Game. Determine the order of players in which the game will be played\n");
+            int firstPlayer = determineFirstPlayer();
+            int round = 1;
+
+            // Add the first player that will be playing
+            turnQueue.add(player[firstPlayer]);
+
+            // Add the player that will be playing the next
+            if (firstPlayer == 0)
+                turnQueue.add(player[1]);
+            else
+                turnQueue.add(player[0]);
+
+            int currentPlayer = 0;
+
             while (round <= this.MAX_ROUND) {
-                System.out.println("\nROUND " + round + "\n");
                 while (!isRoundOver()) {
                     /*
                         The current player keeps playing as long as they earn a point.
                         If the player  do not earn a point after rolling the dice, the turn will be
                         passed to the next player to play in the round.
                      */
+                    System.out.println("\nROUND " + round + "\n");
+
                     Player player = turnQueue.get(currentPlayer);
 
                     System.out.println("Player " + player.getPlayerName() + " turn.");
@@ -75,8 +75,8 @@ public class BuncoGame {
                 System.out.println("Round " + round + " final stats");
                 for(int i = 0; i < this.player.length; ++i)
                     System.out.println("Player " + this.player[i].getPlayerName() +
-                            " [Rounds Won: " + this.player[i].getRoundsWon() + " final score " +
-                            this.player[i].getScore() + " ]");
+                            " [Rounds Won: " + this.player[i].getRoundsWon() + ", Updated Total Score: " + this.player[i].getTotalScore()
+                            + ", Total Buncos: " + this.player[i].getTotalBuncos() +  ", final score " + this.player[i].getScore() + "]");
 
                 // Reset all player score
                 for (int i = 0; i < this.player.length; ++i)
@@ -89,7 +89,7 @@ public class BuncoGame {
             // Determine game winner by getting their player name
             String playerName = gameWinner();
 
-            System.out.println("Player " + playerName + " is the winner of the game!");
+            System.out.println("\nPlayer " + playerName + " is the winner of the game!");
             // Determine if the player wants to play again
             String playerChoice = "";
             do
@@ -97,16 +97,37 @@ public class BuncoGame {
                 System.out.print("\n Play Again?(Yes/No) : ");
                 playerChoice = sc.nextLine();
 
-            } while (playerChoice != "Yes" && playerChoice != "No");
+            } while (!playerChoice.equalsIgnoreCase("Yes") && !playerChoice.equalsIgnoreCase("No"));
 
             // An if-else statement that updates the game loop based on the user's choice
-            gameLoop = playerChoice == "Yes" ? true : false;
+            gameLoop = playerChoice.equalsIgnoreCase("Yes") ? true : false;
+
+            // Reset all player status if the player decided to play again.
+            if(gameLoop)
+            {
+                for(int i = 0 ; i < this.player.length; ++i)
+                {
+                    playerName = this.player[i].getPlayerName();
+                    this.player[i] = new Player(playerName);
+                }
+            }
         }
 
     }
 
     private String gameWinner()
     {
+        /*
+            This method returns the winner of the game by returning the name of the player who won.
+            Determining the winner of the game goes as follows:
+            1) Most rounds won.
+            2) There exist more than one player that have the same number of rounds won (tie)
+                2.1) Determine the player who has the most number of Buncos earned.
+            3) There exist more than one player that have the same number of rounds won and same number
+            of buncos earned.
+                3.1) Get the player with the most total number of points earned.
+
+         */
         int maxRoundsWon = 0;
         ArrayList<Player> mostRoundsWon = new ArrayList<>();
 
@@ -120,11 +141,11 @@ public class BuncoGame {
         if(mostRoundsWon.size() > 1)
         {
             ArrayList<Player> mostBuncosWon = new ArrayList<>();
-            int maxBuncosWon = 0;
+            int  maxBuncosWon = 0;
             for(int i = 0; i < mostRoundsWon.size(); ++i)
                 maxBuncosWon = Integer.max(maxBuncosWon, mostRoundsWon.get(i).getTotalBuncos());
             for(int i = 0; i < mostRoundsWon.size(); ++i)
-                if(mostRoundsWon.get(i).getTotalBuncos() == maxRoundsWon)
+                if(mostRoundsWon.get(i).getTotalBuncos() == maxBuncosWon)
                     mostBuncosWon.add(mostRoundsWon.get(i));
 
             if(mostBuncosWon.size() > 1)
@@ -163,7 +184,7 @@ public class BuncoGame {
             // Update the stats of the player that won the round
             if (this.player[i].getScore() >= this.MAX_SCORE)
             {
-                System.out.println("Player " + this.player[i].getPlayerName() + "wins the round");
+                System.out.println("Player " + this.player[i].getPlayerName() + " wins the round\n");
                 // Increase the total score earned by the winning player
                 this.player[i].setTotalScore(this.player[i].getTotalScore() + this.player[i].getScore());
                 this.player[i].setRoundsWon(this.player[i].getRoundsWon() + 1);
@@ -250,7 +271,10 @@ public class BuncoGame {
 
     private int determineFirstPlayer()
     {
-
+        Dice[] dice = new Dice[3];
+        dice[0] = new Dice();
+        dice[1] = new Dice();
+        dice[2] = new Dice();
         /*
             Obtain a single roll of dice for each player to determine who will go first. If the player rolls a higher
             number than the computer then the player will go first, otherwise the computer will go first. If there are
@@ -262,15 +286,15 @@ public class BuncoGame {
          */
         System.out.println("Press RETURN to roll a dice");
         sc.nextLine();
-        int playerRoll = player[1].getDice().roll();
-        System.out.println("Player " +player[1].getPlayerName() + " has rolled a " +playerRoll + "\n");
+        int playerRollTotal = dice[0].roll() + dice[1].roll() + dice[2].roll();
+        System.out.println("Player " +player[1].getPlayerName() + " has rolled a total of " + Arrays.toString(new int[] {dice[0].getDiceNumber(), dice[1].getDiceNumber(),dice[2].getDiceNumber()}) + " = " + playerRollTotal + "\n");
 
 
         System.out.println("Player " + player[0].getPlayerName() + " is now rolling");
-        int computerRoll = player[0].getDice().roll();
-        System.out.println("Player " +player[0].getPlayerName() + " has rolled a " +computerRoll + "\n");
+        int computerRollTotal = dice[0].roll() + dice[1].roll() + dice[2].roll();
+        System.out.println("Player " +player[0].getPlayerName() + " has rolled a total of "+ Arrays.toString(new int[] {dice[0].getDiceNumber(), dice[1].getDiceNumber(),dice[2].getDiceNumber()}) + " = " + computerRollTotal + "\n");
 
-        if(computerRoll == playerRoll)
+        if(computerRollTotal == playerRollTotal)
         {
             System.out.println("All players have rolled the same dice, roll again\n");
             return determineFirstPlayer();
@@ -278,7 +302,7 @@ public class BuncoGame {
         }
         else
         {
-            if(Integer.max(playerRoll,computerRoll) == playerRoll)
+            if(Integer.max(playerRollTotal,computerRollTotal) == playerRollTotal)
             {
                 System.out.println("Player " + player[1].getPlayerName() + " is first");
                 return 1;
