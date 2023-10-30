@@ -13,9 +13,10 @@ public class Main {
         System.out.print("Please enter your name: ");
         String playerName = sc.nextLine();
 
-        Player computer = new Player();
-        Player player = new Player(playerName);
+        // Create a game instance
+        BuncoGame buncoGame = new BuncoGame(playerName);
 
+        buncoGame.createBuncoGame();
 
         sc.close();
     }
