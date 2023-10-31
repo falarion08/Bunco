@@ -1,0 +1,3839 @@
+Pre-Game. Determine the order of players in which the game will be played
+
+Press RETURN to roll a dice
+Player player Mario has rolled a total of [4, 1, 2] = 7
+
+Player Computer is now rolling
+Player Computer has rolled a total of [2, 2, 3] = 7
+
+All players have rolled the same dice, roll again
+
+Press RETURN to roll a dice
+Player player Mario has rolled a total of [3, 3, 5] = 11
+
+Player Computer is now rolling
+Player Computer has rolled a total of [3, 1, 4] = 8
+
+Player player Mario is first
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 1, 4]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 2, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [5, 6, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 1]
+Player Computer has rolled [6, 1, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [6, 3, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [5, 3, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 2, 2]
+
+Player player Mario says mini-Bunco!
+
+Player player Mario has earned 5 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 7]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 1, 5]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 3, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [4, 2, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 5, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [2, 6, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 4, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 9]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 5, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [1, 1, 6]
+
+Player Computer has earned 2 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [3, 6, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 9]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [6, 1, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 5]
+Player Computer has rolled [1, 5, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [1, 5, 5]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 7]
+Player Computer has rolled [6, 3, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 9]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 1, 6]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 3, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 7]
+Player Computer has rolled [3, 4, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 6, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 7]
+Player Computer has rolled [1, 6, 5]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Player Computer has rolled [4, 4, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 9]
+Player Computer has rolled [4, 3, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 2, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 11]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 3]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 9]
+Player Computer has rolled [1, 2, 3]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Player Computer has rolled [3, 2, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 11]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 2, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 6, 3]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Player Computer has rolled [1, 6, 3]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 11]
+Player Computer has rolled [3, 1, 3]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [3, 3, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 3, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 6, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [5, 5, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 6, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [6, 5, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 3, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [6, 6, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 5, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 14]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 1, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [6, 5, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 6, 6]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 4, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [5, 5, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 3, 3]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [1, 4, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Player Computer has rolled [2, 4, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 2, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Player Computer has rolled [5, 3, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 3, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 17]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 6, 5]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 18]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 6, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Player Computer has rolled [1, 3, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 1
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 14]
+Player Computer has rolled [6, 3, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 1
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 0, Score: 18]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 1, 1]
+
+Player player Mario says Bunco!
+
+Player player Mario has earned 21 points 
+
+Player player Mario wins the round
+
+Round 1 final stats
+Player Computer [Rounds Won: 0, Updated Total Score: 0, Total Buncos: 0, final score 14]
+Player player Mario [Rounds Won: 1, Updated Total Score: 39, Total Buncos: 1, final score 39]
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 2, 4]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 4, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [1, 3, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 3, 3]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [3, 1, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 4, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [5, 1, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 1]
+Player Computer has rolled [2, 2, 5]
+
+Player Computer has earned 2 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [2, 6, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [6, 5, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 3, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 3]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 4, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [6, 5, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 3]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 5, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [5, 1, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 3]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 5, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [4, 4, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 5]
+Player Computer has rolled [1, 1, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 3]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 5, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 4]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 2, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 3, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 5]
+Player Computer has rolled [5, 3, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 2, 5]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 4, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 5]
+Player Computer has rolled [2, 6, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [6, 2, 3]
+
+Player Computer has earned 1 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 7]
+Player Computer has rolled [3, 3, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 3, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 7]
+Player Computer has rolled [4, 3, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 2, 1]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 2, 6]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 2, 6]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 12]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 2, 4]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 14]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 4, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 2, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 3, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 7]
+Player Computer has rolled [2, 5, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Player Computer has rolled [3, 5, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 17]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 3, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 18]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 2, 2]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 20]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 6, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Player Computer has rolled [1, 3, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 20]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 5, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Player Computer has rolled [1, 5, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 20]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 3, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Player Computer has rolled [2, 1, 2]
+
+Player Computer has earned 2 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Player Computer has rolled [1, 3, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 20]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 4, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Player Computer has rolled [5, 1, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 20]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 1, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 2
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Player Computer has rolled [3, 3, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 2
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 1, Score: 20]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 4, 3]
+
+Player player Mario has earned 1 points 
+
+Player player Mario wins the round
+
+Round 2 final stats
+Player Computer [Rounds Won: 0, Updated Total Score: 0, Total Buncos: 0, final score 10]
+Player player Mario [Rounds Won: 2, Updated Total Score: 60, Total Buncos: 1, final score 21]
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 5, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [1, 1, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 4, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [3, 2, 3]
+
+Player Computer has earned 2 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [1, 3, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [6, 1, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 3, 5]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 5, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [4, 6, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 6, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [1, 4, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 5, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [6, 5, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 1, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 3]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 6, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 4]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 6, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [2, 4, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 4]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 3, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 3, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 1, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [1, 2, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 6, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [3, 4, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [3, 4, 3]
+
+Player Computer has earned 2 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [4, 3, 3]
+
+Player Computer has earned 2 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Player Computer has rolled [4, 6, 3]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 9]
+Player Computer has rolled [4, 2, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 1, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 9]
+Player Computer has rolled [6, 5, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 1, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 9]
+Player Computer has rolled [2, 3, 5]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Player Computer has rolled [3, 5, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 11]
+Player Computer has rolled [2, 3, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [6, 4, 3]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Player Computer has rolled [4, 4, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 3, 6]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 1, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Player Computer has rolled [2, 2, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 2, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 13]
+Player Computer has rolled [3, 1, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 14]
+Player Computer has rolled [6, 3, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 15]
+Player Computer has rolled [5, 4, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 5, 3]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 6, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 15]
+Player Computer has rolled [1, 2, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 5, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 15]
+Player Computer has rolled [6, 3, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 16]
+Player Computer has rolled [5, 3, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 17]
+Player Computer has rolled [1, 3, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 18]
+Player Computer has rolled [3, 4, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 19]
+Player Computer has rolled [1, 4, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 3, 5]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 11]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 4, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 3
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 19]
+Player Computer has rolled [4, 1, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 3
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 2, Score: 11]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 3, 3]
+
+Player player Mario says Bunco!
+
+Player player Mario has earned 21 points 
+
+Player player Mario wins the round
+
+Round 3 final stats
+Player Computer [Rounds Won: 0, Updated Total Score: 0, Total Buncos: 0, final score 19]
+Player player Mario [Rounds Won: 3, Updated Total Score: 92, Total Buncos: 2, final score 32]
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 3, 3]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [5, 1, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 1]
+Player Computer has rolled [1, 5, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [3, 5, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 5, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [1, 3, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 5, 5]
+
+Player player Mario says mini-Bunco!
+
+Player player Mario has earned 5 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 1, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [3, 5, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 3, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [1, 6, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 1, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 6]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 1, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 7]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 3, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 4, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 9]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 3, 3]
+
+Player player Mario says mini-Bunco!
+
+Player player Mario has earned 5 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 14]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 4, 6]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 5, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [5, 6, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 4, 5]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 3, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 17]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 4, 6]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 18]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 5, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [6, 2, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 18]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 3, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 19]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 4, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 20]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 3, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [6, 6, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 4
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [3, 2, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 4
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 3, Score: 20]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 4, 1]
+
+Player player Mario has earned 1 points 
+
+Player player Mario wins the round
+
+Round 4 final stats
+Player Computer [Rounds Won: 0, Updated Total Score: 0, Total Buncos: 0, final score 3]
+Player player Mario [Rounds Won: 4, Updated Total Score: 113, Total Buncos: 2, final score 21]
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 6, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [6, 4, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 3, 6]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 1]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 5]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 5, 5]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 4]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 6, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 3, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 0]
+Player Computer has rolled [2, 1, 5]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 1]
+Player Computer has rolled [1, 3, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 4, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 1]
+Player Computer has rolled [2, 6, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 1, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 1]
+Player Computer has rolled [1, 6, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 3, 5]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 7]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 3, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 5, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 9]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 4, 6]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 1]
+Player Computer has rolled [4, 4, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 9]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 6, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 1]
+Player Computer has rolled [3, 5, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [4, 4, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 9]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 2, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 6, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 2]
+Player Computer has rolled [6, 5, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [3, 2, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 3, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 3]
+Player Computer has rolled [5, 1, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [4, 2, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 10]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 4, 5]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 12]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 3, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 4]
+Player Computer has rolled [5, 3, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 5]
+Player Computer has rolled [1, 5, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [3, 4, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 12]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 6, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [4, 3, 6]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 12]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 5, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 4, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [6, 6, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 6, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [3, 2, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 6, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [3, 6, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 5]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 14]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 5, 4]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 4, 3]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [6, 2, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 2, 6]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 17]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 4, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 18]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 1, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 6]
+Player Computer has rolled [2, 5, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 7]
+Player Computer has rolled [6, 5, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 8]
+Player Computer has rolled [5, 5, 4]
+
+Player Computer has earned 2 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 10]
+Player Computer has rolled [6, 2, 5]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 11]
+Player Computer has rolled [4, 3, 5]
+
+Player Computer has earned 1 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 12]
+Player Computer has rolled [5, 3, 5]
+
+Player Computer has earned 2 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 14]
+Player Computer has rolled [6, 4, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 5
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 18]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 2, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 14]
+Player Computer has rolled [5, 6, 5]
+
+Player Computer has earned 2 points 
+
+
+ROUND 5
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 0, Score: 16]
+Player Computer has rolled [4, 4, 4]
+
+Player Computer says mini-Bunco!
+
+Player Computer has earned 5 points 
+
+Player Computer wins the round
+
+Round 5 final stats
+Player Computer [Rounds Won: 1, Updated Total Score: 21, Total Buncos: 0, final score 21]
+Player player Mario [Rounds Won: 4, Updated Total Score: 113, Total Buncos: 2, final score 18]
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 0]
+Player Computer has rolled [3, 3, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 2, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 0]
+Player Computer has rolled [5, 3, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 0]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 6, 5]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 1]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 5, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 0]
+Player Computer has rolled [4, 5, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 1]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 4, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 0]
+Player Computer has rolled [2, 3, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 1]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 1, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 0]
+Player Computer has rolled [5, 3, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 1]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 6, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 2]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 1, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 3]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 4, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 4]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 6, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [1, 4, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 0]
+Player Computer has rolled [6, 3, 5]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 1]
+Player Computer has rolled [4, 4, 5]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 1]
+Player Computer has rolled [1, 1, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 4, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 1]
+Player Computer has rolled [2, 5, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 2]
+Player Computer has rolled [1, 3, 1]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 5]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 2, 6]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 7]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 2]
+Player Computer has rolled [5, 6, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 3]
+Player Computer has rolled [4, 2, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 4]
+Player Computer has rolled [5, 6, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 5]
+Player Computer has rolled [1, 1, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 6]
+Player Computer has rolled [6, 2, 1]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 7]
+Player Computer has rolled [6, 5, 5]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 8]
+Player Computer has rolled [2, 4, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 9]
+Player Computer has rolled [1, 2, 2]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 7]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 4, 3]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 9]
+Player Computer has rolled [4, 6, 6]
+
+Player Computer has earned 2 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 11]
+Player Computer has rolled [4, 2, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 7]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 3, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 11]
+Player Computer has rolled [2, 2, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 7]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 6, 3]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 8]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 5, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 9]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 5, 6]
+
+Player player Mario has earned 2 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 11]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 6, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 12]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 5, 6]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 13]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 4, 6]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 14]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 6, 1]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [2, 5, 3]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 11]
+Player Computer has rolled [5, 4, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [5, 1, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 11]
+Player Computer has rolled [6, 4, 2]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 12]
+Player Computer has rolled [1, 1, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 13]
+Player Computer has rolled [1, 4, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 1, 2]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 13]
+Player Computer has rolled [1, 3, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 15]
+Press RETURN to roll your die
+Player player Mario has rolled [6, 4, 2]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 16]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 6, 4]
+
+Player player Mario has earned 1 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 17]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 2, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 13]
+Player Computer has rolled [3, 6, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 14]
+Player Computer has rolled [1, 2, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 17]
+Press RETURN to roll your die
+Player player Mario has rolled [3, 5, 4]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 14]
+Player Computer has rolled [3, 6, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 15]
+Player Computer has rolled [6, 5, 3]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 16]
+Player Computer has rolled [6, 4, 4]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 17]
+Player Computer has rolled [4, 5, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 18]
+Player Computer has rolled [1, 5, 6]
+
+Player Computer has earned 1 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 19]
+Player Computer has rolled [3, 5, 3]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 17]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 3, 1]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 19]
+Player Computer has rolled [1, 5, 4]
+
+Player Computer has earned 0 points 
+
+
+ROUND 6
+
+
+Player player Mario turn.
+
+Player Stats: [Rounds Won: 4, Score: 17]
+Press RETURN to roll your die
+Player player Mario has rolled [4, 5, 5]
+
+Player player Mario has earned 0 points 
+
+
+ROUND 6
+
+
+Player Computer turn.
+
+Player Stats: [Rounds Won: 1, Score: 19]
+Player Computer has rolled [6, 1, 6]
+
+Player Computer has earned 2 points 
+
+Player Computer wins the round
+
+Round 6 final stats
+Player Computer [Rounds Won: 2, Updated Total Score: 42, Total Buncos: 0, final score 21]
+Player player Mario [Rounds Won: 4, Updated Total Score: 113, Total Buncos: 2, final score 17]
+
+Player player Mario is the winner of the game!
+
+ Play Again?(Yes/No) : No
