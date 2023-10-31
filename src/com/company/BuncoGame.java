@@ -1,5 +1,8 @@
 package com.company;
 
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -10,6 +13,8 @@ public class BuncoGame {
     private final int MAX_ROUND = 6;
     private Scanner sc;
     private ArrayList<Player> turnQueue;
+    private FileWriter fileWriter;
+    private File gameLog;
 
     public BuncoGame(String playerName)
     {
@@ -17,15 +22,91 @@ public class BuncoGame {
         this.player[0] = new Player();
         this.player[1] = new Player(playerName);
         this.sc = new Scanner(System.in);
+
+        // Create a text file and initialize FileWriter class to produce a text file of the game log
+        // Comment out if the user does not wish to write into a file.
+        createGameLog();
+
+    }
+
+    public void createGameLog()
+    {
+        /*
+            This function create an instance of a File class and FileWriter class necessary to produce an output to
+            a text file. It is the user's responsibility to input proper name format for a text file (i.e. fileName.txt)
+         */
+        String fileName;
+
+        System.out.print("Enter file name: ");
+
+        fileName = sc.nextLine();
+
+        if (fileName.length() == 0)
+            fileName = "a.txt";
+
+        this.gameLog = new File(fileName);
+
+        try
+        {
+            if(this.gameLog.createNewFile())
+            {
+                System.out.println("Created file name: " +fileName);
+
+                try
+                {
+                    this.fileWriter = new FileWriter(fileName);
+
+                }
+                catch (IOException e)
+                {
+                    fileWriter.close();
+                    e.printStackTrace();
+                    System.exit(1);
+                }
+            }
+            else
+            {
+                // Close the application on error
+                System.out.println("File already exists");
+                System.exit(1);
+            }
+        }
+        catch (IOException e)
+        {
+            e.printStackTrace();
+            System.exit(1);
+        }
+    }
+
+    public void writeToFile(String message)
+    {
+        /*
+            This function writes to the text file and automatically inserts a newline in the text file for each message
+            written to the text file. This method is created so the process of writing to a file does not have to be
+            implemented over and over again.
+         */
+
+        // Only write to a file when there is a text file to write into
+        if(this.gameLog != null)
+        {
+            try {
+                this.fileWriter.write(message + "\n");
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
     }
 
     public void createBuncoGame()
     {
         boolean gameLoop = true;
-        while (gameLoop)
-        {
+        // Start of game
+        while (gameLoop) {
             this.turnQueue = new ArrayList<>();
+
             System.out.println("Pre-Game. Determine the order of players in which the game will be played\n");
+            writeToFile("Pre-Game. Determine the order of players in which the game will be played\n");
+
             int firstPlayer = determineFirstPlayer();
             int round = 1;
 
@@ -42,25 +123,35 @@ public class BuncoGame {
 
             while (round <= this.MAX_ROUND) {
                 while (!isRoundOver()) {
-                    /*
-                        The current player keeps playing as long as they earn a point.
-                        If the player  do not earn a point after rolling the dice, the turn will be
-                        passed to the next player to play in the round.
-                     */
+            /*
+                The current player keeps playing as long as they earn a point.
+                If the player  do not earn a point after rolling the dice, the turn will be
+                passed to the next player to play in the round.
+             */
                     System.out.println("\nROUND " + round + "\n");
+                    writeToFile("\nROUND " + round + "\n");
 
                     Player player = turnQueue.get(currentPlayer);
 
                     System.out.println("Player " + player.getPlayerName() + " turn.");
                     System.out.println("Player Stats: [Rounds Won: " + player.getRoundsWon() + ", Score: " + player.getScore() + "]");
 
+                    writeToFile("\nPlayer " + player.getPlayerName() + " turn.");
+                    writeToFile("\nPlayer Stats: [Rounds Won: " + player.getRoundsWon() + ", Score: " + player.getScore() + "]");
+
                     // Make the current player roll their die
+
+                    if(!player.getPlayerName().equals("Computer"))
+                        writeToFile("Press RETURN to roll your die");
+
                     player.playRound();
 
+                    writeToFile("Player " + player.getPlayerName() + " has rolled " + Arrays.toString(player.getDiceRolled()) + "\n");
                     // Examine points earned from their roll
                     int score = examinePlayerMove(player, round);
 
                     System.out.println("Player " + player.getPlayerName() + " has earned " + score + " points \n");
+                    writeToFile("Player " + player.getPlayerName() + " has earned " + score + " points \n");
                     if (score == 0) {
                         currentPlayer++;
 
@@ -73,11 +164,17 @@ public class BuncoGame {
 
                 // Print final player stats after the round
                 System.out.println("Round " + round + " final stats");
-                for(int i = 0; i < this.player.length; ++i)
+                writeToFile("Round " + round + " final stats");
+
+                for (int i = 0; i < this.player.length; ++i) {
                     System.out.println("Player " + this.player[i].getPlayerName() +
                             " [Rounds Won: " + this.player[i].getRoundsWon() + ", Updated Total Score: " + this.player[i].getTotalScore()
-                            + ", Total Buncos: " + this.player[i].getTotalBuncos() +  ", final score " + this.player[i].getScore() + "]");
+                            + ", Total Buncos: " + this.player[i].getTotalBuncos() + ", final score " + this.player[i].getScore() + "]");
 
+                    writeToFile("Player " + this.player[i].getPlayerName() +
+                            " [Rounds Won: " + this.player[i].getRoundsWon() + ", Updated Total Score: " + this.player[i].getTotalScore()
+                            + ", Total Buncos: " + this.player[i].getTotalBuncos() + ", final score " + this.player[i].getScore() + "]");
+                }
                 // Reset all player score
                 for (int i = 0; i < this.player.length; ++i)
                     this.player[i].setScore(0);
@@ -90,29 +187,40 @@ public class BuncoGame {
             String playerName = gameWinner();
 
             System.out.println("\nPlayer " + playerName + " is the winner of the game!");
+            writeToFile("\nPlayer " + playerName + " is the winner of the game!");
+
             // Determine if the player wants to play again
             String playerChoice = "";
-            do
-            {
+            do {
                 System.out.print("\n Play Again?(Yes/No) : ");
+
                 playerChoice = sc.nextLine();
 
             } while (!playerChoice.equalsIgnoreCase("Yes") && !playerChoice.equalsIgnoreCase("No"));
+
+            writeToFile("\n Play Again?(Yes/No) : " + playerChoice);
 
             // An if-else statement that updates the game loop based on the user's choice
             gameLoop = playerChoice.equalsIgnoreCase("Yes") ? true : false;
 
             // Reset all player status if the player decided to play again.
-            if(gameLoop)
-            {
-                for(int i = 0 ; i < this.player.length; ++i)
-                {
+            if (gameLoop) {
+                for (int i = 0; i < this.player.length; ++i) {
                     playerName = this.player[i].getPlayerName();
                     this.player[i] = new Player(playerName);
                 }
             }
         }
-
+        // close file writer
+        try
+        {
+            if(fileWriter != null)
+                this.fileWriter.close();
+        }
+        catch (IOException e)
+        {
+            e.printStackTrace();
+        }
     }
 
     private String gameWinner()
@@ -185,6 +293,7 @@ public class BuncoGame {
             if (this.player[i].getScore() >= this.MAX_SCORE)
             {
                 System.out.println("Player " + this.player[i].getPlayerName() + " wins the round\n");
+                writeToFile("Player " + this.player[i].getPlayerName() + " wins the round\n");
                 // Increase the total score earned by the winning player
                 this.player[i].setTotalScore(this.player[i].getTotalScore() + this.player[i].getScore());
                 this.player[i].setRoundsWon(this.player[i].getRoundsWon() + 1);
@@ -208,6 +317,7 @@ public class BuncoGame {
         if(isABunco(player,roundNumber))
         {
             System.out.println("Player " + player.getPlayerName() + " says Bunco!\n");
+            writeToFile("Player " + player.getPlayerName() + " says Bunco!\n");
 
             // Count increase the number of total buncos the player has reached
             player.setTotalBuncos(player.getTotalBuncos() + 1);
@@ -216,6 +326,7 @@ public class BuncoGame {
         else if (isAMiniBunco(player))
         {
             System.out.println("Player " + player.getPlayerName() + " says mini-Bunco!\n");
+            writeToFile("Player " + player.getPlayerName() + " says mini-Bunco!\n");
             return 5;
         }
         else
@@ -285,18 +396,25 @@ public class BuncoGame {
             the computer.
          */
         System.out.println("Press RETURN to roll a dice");
+        writeToFile("Press RETURN to roll a dice");
+
         sc.nextLine();
         int playerRollTotal = dice[0].roll() + dice[1].roll() + dice[2].roll();
-        System.out.println("Player " +player[1].getPlayerName() + " has rolled a total of " + Arrays.toString(new int[] {dice[0].getDiceNumber(), dice[1].getDiceNumber(),dice[2].getDiceNumber()}) + " = " + playerRollTotal + "\n");
 
+        System.out.println("Player " +player[1].getPlayerName() + " has rolled a total of " + Arrays.toString(new int[] {dice[0].getDiceNumber(), dice[1].getDiceNumber(),dice[2].getDiceNumber()}) + " = " + playerRollTotal + "\n");
+        writeToFile("Player " +player[1].getPlayerName() + " has rolled a total of " + Arrays.toString(new int[] {dice[0].getDiceNumber(), dice[1].getDiceNumber(),dice[2].getDiceNumber()}) + " = " + playerRollTotal + "\n");
 
         System.out.println("Player " + player[0].getPlayerName() + " is now rolling");
+        writeToFile("Player " + player[0].getPlayerName() + " is now rolling");
+
         int computerRollTotal = dice[0].roll() + dice[1].roll() + dice[2].roll();
         System.out.println("Player " +player[0].getPlayerName() + " has rolled a total of "+ Arrays.toString(new int[] {dice[0].getDiceNumber(), dice[1].getDiceNumber(),dice[2].getDiceNumber()}) + " = " + computerRollTotal + "\n");
+        writeToFile("Player " +player[0].getPlayerName() + " has rolled a total of "+ Arrays.toString(new int[] {dice[0].getDiceNumber(), dice[1].getDiceNumber(),dice[2].getDiceNumber()}) + " = " + computerRollTotal + "\n");
 
         if(computerRollTotal == playerRollTotal)
         {
             System.out.println("All players have rolled the same dice, roll again\n");
+            writeToFile("All players have rolled the same dice, roll again\n");
             return determineFirstPlayer();
 
         }
@@ -305,11 +423,13 @@ public class BuncoGame {
             if(Integer.max(playerRollTotal,computerRollTotal) == playerRollTotal)
             {
                 System.out.println("Player " + player[1].getPlayerName() + " is first");
+                writeToFile("Player " + player[1].getPlayerName() + " is first");
                 return 1;
             }
             else
             {
                 System.out.println("Player " + player[0].getPlayerName() + " is first");
+                writeToFile("Player " + player[0].getPlayerName() + " is first");
                 return 0;
             }
         }
